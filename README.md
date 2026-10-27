@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Saif 👋
 
-<!--
-**whoissaaif/whoissaaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like building things that sit close to the hardware: Android apps, Windows media plumbing, and AI apps for real-world problems.
 
-Here are some ideas to get you started:
+🔭 Right now I'm building **[MyCam](https://github.com/whoissaaif/mycam)**, an open-source app that turns an Android phone or iPhone into a plug-and-play webcam for Windows (Zoom, Teams, OBS, Discord). No Developer Options, no ADB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧪 Next up: **ASHA Saathi**: a Telugu voice AI assistant that helps village health workers spot high-risk pregnancies early.
+
+📍 Hyderabad, India · 💼 Open to SDE roles & internships (Android, backend, systems, AI apps)
+
+---
+
+#### 🛠️ What I work with
+- **Languages:** Kotlin · C++ · Python · TypeScript · JavaScript · SQL
+- **Android:** Jetpack Compose · Coroutines · StateFlow · Camera2 · USB (AOA)
+- **Windows / Systems:** Media Foundation · WinUSB · virtual camera DLLs · CMake
+- **Web & backend:** FastAPI · React · Tailwind · Supabase · Docker
+- **AI:** LLMs · RAG · ChromaDB · XGBoost
+- **Hardware:** ESP32 · sensors · Wi-Fi telemetry
+
+#### 📌 Projects
+| Project | What it does | Stack |
+|---|---|---|
+| [MyCam](https://github.com/whoissaaif/mycam) | Phone → Windows webcam over USB or Wi-Fi, with a custom wire protocol tested in Kotlin and C++ | Kotlin, C++, Media Foundation |
+| Vizard | Step-through animations of linked lists, stacks, queues and trees, synced to code | Kotlin, Jetpack Compose |
+| Solar Monitor | ESP32 sensors → Supabase every 10 s → live React dashboard | ESP32, React, TypeScript |
+
+#### 📫 Reach me
+[LinkedIn](https://www.linkedin.com/in/syedsaifuddin0/) · saifab642@gmail.com
