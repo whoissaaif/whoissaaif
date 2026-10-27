@@ -27,3 +27,7 @@ I like building things that sit close to the hardware: Android apps, Windows med
 
 #### 📫 Reach me
 [LinkedIn](https://www.linkedin.com/in/syedsaifuddin0/) · saifab642@gmail.com
+
+If MyCam saved you from buying a webcam, you can buy me a coffee ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/saifuddin)
