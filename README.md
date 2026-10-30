@@ -26,7 +26,7 @@ I like building things that sit close to the hardware: Android apps, Windows med
 | Solar Monitor | ESP32 sensors → Supabase every 10 s → live React dashboard | ESP32, React, TypeScript |
 
 #### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/syedsaifuddin0/) · saifab642@gmail.com
+[LinkedIn](https://www.linkedin.com/in/syedsaifuddin0/) · 0syedsaifuddin@gmail.com
 
 If MyCam saved you from buying a webcam, you can buy me a coffee ☕
 
