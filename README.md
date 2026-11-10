@@ -4,7 +4,6 @@ I like building things that sit close to the hardware: Android apps, Windows med
 
 🔭 Right now I'm building **[MyCam](https://github.com/whoissaaif/mycam)**, an open-source app that turns an Android phone or iPhone into a plug-and-play webcam for Windows (Zoom, Teams, OBS, Discord). No Developer Options, no ADB.
 
-🧪 Next up: **ASHA Saathi**: a Telugu voice AI assistant that helps village health workers spot high-risk pregnancies early.
 
 📍 Hyderabad, India · 💼 Open to SDE roles & internships (Android, backend, systems, AI apps)
 
