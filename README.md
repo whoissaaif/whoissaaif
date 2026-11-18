@@ -21,7 +21,7 @@ I like building things that sit close to the hardware: Android apps, Windows med
 | Project | What it does | Stack |
 |---|---|---|
 | [MyCam](https://github.com/whoissaaif/mycam) | Phone → Windows webcam over USB or Wi-Fi, with a custom wire protocol tested in Kotlin and C++ | Kotlin, C++, Media Foundation |
-| Desk Widgets | Lightweight, desktop widgets for Windows 11. One small native process, with community widgets a click away.| C#, HTML, JavaScript |
+| [Desk Widgets] (https://github.com/whoissaaif/desk-widgets) | Lightweight, desktop widgets for Windows 11. One small native process, with community widgets a click away.| C#, HTML, JavaScript |
 | Vizard | Step-through animations of linked lists, stacks, queues and trees, synced to code | Kotlin, Jetpack Compose |
 | Solar Monitor | ESP32 sensors → Supabase every 10 s → live React dashboard | ESP32, React, TypeScript |
 
